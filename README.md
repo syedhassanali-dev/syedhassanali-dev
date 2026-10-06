@@ -52,3 +52,9 @@ When building projects, I focus on:
 - Software Engineering — Clean Code, Reusability, Debugging & Maintainability
 - Git & GitHub — Version Control, Branching & Professional Workflows
 - Full-Stack Development — Building toward the MERN stack
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Syed Hassan](https://www.linkedin.com/in/syedmuhammadhassanali/)
+- 🌐 Portfolio: (https://syedhassan12.netlify.app/)
+- 📧 Email: Available on request
