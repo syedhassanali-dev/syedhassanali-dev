@@ -9,3 +9,23 @@ I’m currently strengthening my skills in **JavaScript and React.js**, while de
 My long-term goal is to become a **Full-Stack Software Engineer** capable of designing, building, testing, and maintaining reliable web applications.
 
 > **Learn → Build → Solve Problems → Improve → Ship**
+ ## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind Css
+
+### Tools & Workflow
+- Git
+- GitHub
+- Github Dekstop
+- VS Code
+
+### Currently Learning
+- React.js
+- Modern JavaScript
+- Software Engineering Principles
+- Full-Stack Web Development
