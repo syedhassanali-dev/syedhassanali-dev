@@ -44,3 +44,11 @@ When building projects, I focus on:
 - Responsive and accessible interfaces
 - Debugging and problem-solving
 - Git-based development workflows
+
+## 📚 Currently Learning
+
+- React.js — Components, Props, State, Hooks & Application Architecture
+- JavaScript — Modern ES6+, Asynchronous JavaScript & Problem Solving
+- Software Engineering — Clean Code, Reusability, Debugging & Maintainability
+- Git & GitHub — Version Control, Branching & Professional Workflows
+- Full-Stack Development — Building toward the MERN stack
