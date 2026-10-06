@@ -29,3 +29,18 @@ My long-term goal is to become a **Full-Stack Software Engineer** capable of des
 - Modern JavaScript
 - Software Engineering Principles
 - Full-Stack Web Development
+
+## 🧠 Engineering Mindset
+
+I believe good software is not just about making things work — it's about making them reliable, maintainable, reusable, and easy to understand.
+
+When building projects, I focus on:
+
+- Clean and readable code
+- Reusable components
+- Logical architecture
+- Proper data flow
+- Validation and error handling
+- Responsive and accessible interfaces
+- Debugging and problem-solving
+- Git-based development workflows
