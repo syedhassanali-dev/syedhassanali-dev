@@ -58,3 +58,11 @@ When building projects, I focus on:
 - 💼 LinkedIn: [Syed Hassan](https://www.linkedin.com/in/syedmuhammadhassanali/)
 - 🌐 Portfolio: (https://syedhassan12.netlify.app/)
 - 📧 Email: Available on request
+
+## ⚡ What I Value
+
+- Building real-world projects instead of only following tutorials
+- Understanding why a solution works, not just making it work
+- Writing clean, reusable, and maintainable code
+- Improving through debugging and problem-solving
+- Learning continuously and applying concepts through projects
